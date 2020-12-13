@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,900;1,600&display=swap");
+
+.App {
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center;
+  display: block;
+  background-color: black;
+  margin: 0px;
+  padding: 1rem;
+}
+.font-head {
+  color: red;
+  padding-bottom: 1rem;
+}
+
+.font-Exercise {
+  background-color: white;
+  padding: 5px;
+  border-radius: 1rem;
+  font-weight: bold;
+}
+.htm {
+  margin: auto;
+  display: block;
+  background-color: black;
+}
+
+.button-options {
+  font-weight: bold;
+  font-family: "Source Sans Pro", sans-serif;
+}
