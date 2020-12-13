@@ -7,7 +7,7 @@ const fitness = {
     {
       head: "Bodyweight Training",
       Exercise:
-        "Bodyweight Training is one of the best forms of physical activity to build muscles not just muscles but it helps you build your endurance as well as strength and also has less number of chances towards getting injuries when compared to traditional weight-Training."
+        "Bodyweight Training is one of the best forms of physical activity to build muscles not just muscles but it helps you build your endurance as well as strength and also has less number of chances towards getting injuries when compared to traditional weight-Training. You'll find number of exercise ahead in respective sections. "
     }
   ],
   CHEST: [
